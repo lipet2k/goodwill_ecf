@@ -1,0 +1,6 @@
+# packages in environment at /Users/lipet/opt/anaconda3/envs/goodwill:
+#
+# Name                    Version                   Build  Channel
+openpyxl                  3.0.10          py310hca72f7f_0  
+pandas                    1.4.4           py310he9d5cce_0  
+
