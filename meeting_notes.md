@@ -27,3 +27,11 @@
 
 - Peter is almost done with carbon footprint modeling, remaining: number of parts in SuperCloud, and GPU memory footprint
 - Peter will work on a presentation, possible in the week 12/12-12/16
+
+## 12/14/2022
+
+- Peter presented the embodied carbon footprint
+- In summary: 
+  - System has very high packaging overhead due to the DRAM
+  - Storage and DRAM becomes the major component for embodied carbon footprint. Suprisingly it is not the powerful GPU.
+- Peter will summarize the findings in SuperCloud, and compare against the findings in ACT paper.
